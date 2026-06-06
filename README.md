@@ -55,12 +55,12 @@ Project_Documentation.pdf
 README.md
 
 ## Dashboard Preview
-### Summary Dashboard
 
-[Summary Dashboard](Summary-dashboard.png)
+### Summary Dashboard
+![Summary Dashboard](summary_dashboard.png)
 
 ### Overview Dashboard
-[overview Dashboard](Overview-dashboard.png)
+![Overview Dashboard](overview_dashboard.png)
 
 ##Key Insights
 
